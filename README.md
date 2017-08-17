@@ -1,5 +1,5 @@
-# EWP_OMS
->自动化运维系统（saltstack+django+bootstrap），QQ群342844540，博客http://ywzhou.blog.51cto.com/2785388/d-9
+# OPMS
+>自动化运维系统（saltstack+django+bootstrap）
 
 ## 数据库:
 
